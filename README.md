@@ -77,8 +77,6 @@ Built with modern web technologies, TripVerse aims to inspire exploration and ma
 * Add destinations to your favorites list for quick access
 * Use the contact form to send inquiries or feedback
 
----
-
 ## Contributing
 
 Contributions are welcome! Here’s how you can help:
